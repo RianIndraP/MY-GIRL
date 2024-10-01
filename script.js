@@ -22,7 +22,7 @@ new Vue({
                     img1: "images/baby-1.jpg",
                     img2: "images/baby-2.jpg",
                     img3: "images/baby-3.jpg",
-                    title: "BABIES",
+                    title: "INDESCRIBABLE",
                     isOpen: false,
                 },
                 {
